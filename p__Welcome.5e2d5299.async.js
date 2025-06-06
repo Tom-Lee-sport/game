@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[185],{9622:function(h,n,t){t.r(n);var i=t(67294),e=t(85893);n.default=function(){return(0,e.jsx)("div",{id:"root",style:{height:"100vh",width:"100vw",background:"#fff"},children:(0,e.jsx)("iframe",{src:"/game/index.html",style:{height:"100vh",width:"100vw"}})})}}}]);
